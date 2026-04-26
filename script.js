@@ -155,9 +155,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const typewriterEl = document.getElementById('typewriter');
   const phrases = [
     'Full Stack Developer',
-    'Python Enthusiast',
-    'API Architect',
-    'Open Source Contributor'
+    'Python & Data Science Enthusiast',
+    'Next.js & React Developer',
+    'Cybersecurity Explorer',
+    'B.Tech CS @ KIIT'
   ];
   let phraseIndex = 0;
   let charIndex = 0;
